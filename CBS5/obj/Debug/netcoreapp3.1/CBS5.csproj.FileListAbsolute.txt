@@ -1,0 +1,14 @@
+C:\Users\denys\source\repos\CBS5\bin\Debug\netcoreapp3.1\CBS5.exe
+C:\Users\denys\source\repos\CBS5\bin\Debug\netcoreapp3.1\CBS5.deps.json
+C:\Users\denys\source\repos\CBS5\bin\Debug\netcoreapp3.1\CBS5.runtimeconfig.json
+C:\Users\denys\source\repos\CBS5\bin\Debug\netcoreapp3.1\CBS5.runtimeconfig.dev.json
+C:\Users\denys\source\repos\CBS5\bin\Debug\netcoreapp3.1\CBS5.dll
+C:\Users\denys\source\repos\CBS5\bin\Debug\netcoreapp3.1\CBS5.pdb
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.AssemblyInfo.cs
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.dll
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.pdb
+C:\Users\denys\source\repos\CBS5\obj\Debug\netcoreapp3.1\CBS5.genruntimeconfig.cache

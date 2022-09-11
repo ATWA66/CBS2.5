@@ -1,0 +1,14 @@
+C:\Users\denys\source\repos\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.exe
+C:\Users\denys\source\repos\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.deps.json
+C:\Users\denys\source\repos\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.runtimeconfig.json
+C:\Users\denys\source\repos\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.runtimeconfig.dev.json
+C:\Users\denys\source\repos\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.dll
+C:\Users\denys\source\repos\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.pdb
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.AssemblyInfo.cs
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.dll
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.pdb
+C:\Users\denys\source\repos\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.genruntimeconfig.cache
